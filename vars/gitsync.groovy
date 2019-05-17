@@ -38,7 +38,7 @@ def call(Map buildEnv){
                                     cmdRun(comandGitsync, "${DB_USER_CREDENTIONALS_ID}")
                                 } catch (err) {
                                     cmdRun(comandGitsync)
-                                    cmdRun("git push")
+                                    //cmdRun("git push")
                                 }
                                     
                             }
