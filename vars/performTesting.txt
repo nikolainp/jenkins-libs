@@ -1,0 +1,3 @@
+<strong>PerformTesting()</strong>
+
+<p>Метод предназначен для </p>
